@@ -1,0 +1,36 @@
+_repo: Luke-Walton_26083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2008-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swindlers and swindling -- Fiction'
+- !lcsh 'Robbers and outlaws -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Chicago (Ill.) -- History -- 19th century -- Fiction'
+title: Luke Walton
+url: http://www.gutenberg.org/ebooks/26083
